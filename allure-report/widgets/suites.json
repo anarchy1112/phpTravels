@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "985ed5c7fd7d368bc1d0a088fb45e021",
+    "name" : "test_booking_values",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 6,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "fc37d81ff7da418609788d1d54f9d938",
+    "name" : "test_booking",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

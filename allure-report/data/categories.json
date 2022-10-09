@@ -1,0 +1,157 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00AA1ED3+2236115]\n\tOrdinal0 [0x00A392F1+1807089]\n\tOrdinal0 [0x009466FD+812797]\n\tOrdinal0 [0x009755DF+1005023]\n\tOrdinal0 [0x009757CB+1005515]\n\tOrdinal0 [0x009A7632+1209906]\n\tOrdinal0 [0x00991AD4+1120980]\n\tOrdinal0 [0x009A59E2+1202658]\n\tOrdinal0 [0x009918A6+1120422]\n\tOrdinal0 [0x0096A73D+960317]\n\tOrdinal0 [0x0096B71F+964383]\n\tGetHandleVerifier [0x00D4E7E2+2743074]\n\tGetHandleVerifier [0x00D408D4+2685972]\n\tGetHandleVerifier [0x00B32BAA+532202]\n\tGetHandleVerifier [0x00B31990+527568]\n\tOrdinal0 [0x00A4080C+1837068]\n\tOrdinal0 [0x00A44CD8+1854680]\n\tOrdinal0 [0x00A44DC5+1854917]\n\tOrdinal0 [0x00A4ED64+1895780]\n\tBaseThreadInitThunk [0x7743FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x776C7B5E+286]\n\tRtlGetAppContainerNamedObjectPath [0x776C7B2E+238]",
+      "children" : [ {
+        "name" : "test_hotel_book[Dubai-27-7-TG-dsfsf-sdfsdf-dsf@sdf.com-456464-fsdfsd fsdf-United Kingdom-United Kingdom-Mr-dasd-fsdf-Mr-sfdsdf-sfsd-Mr-fsd-sdfsd-sdfsd-dsfsdf]",
+        "uid" : "bffbca01201faa1b",
+        "parentUid" : "a3e31539deaf39eaedfb215ed784d792",
+        "status" : "broken",
+        "time" : {
+          "start" : 1665346370285,
+          "stop" : 1665346385175,
+          "duration" : 14890
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'fsdfsd fsdf'", "'dsf@sdf.com'", "456464", "'7'", "'sdfsd'", "'dsfsdf'", "'Dubai'", "'United Kingdom'", "'TG'", "'27'", "'dsfsf'", "'sdfsdf'", "'United Kingdom'", "'dasd'", "'fsdf'", "'Mr'", "'sfdsdf'", "'sfsd'", "'Mr'", "'fsd'", "'sdfsd'", "'Mr'" ]
+      } ],
+      "uid" : "a3e31539deaf39eaedfb215ed784d792"
+    }, {
+      "name" : "AttributeError: 'WebDriver' object has no attribute 'send_keys'",
+      "children" : [ {
+        "name" : "test_hotel_book[Islamabad-28-8-AR-dsfsf-sdfsdf-dsf@sdf.com-456464-fsdfsd fsdf-United Kingdom-United Kingdom-Mr-dasd-fsdf-Mr-sfdsdf-sfsd-Mr-fsd-sdfsd-sdfsd-dsfsdf]",
+        "uid" : "fa2fabe1558b73db",
+        "parentUid" : "a1e66f9b28d2ea10cb8649d45b2a4801",
+        "status" : "broken",
+        "time" : {
+          "start" : 1665346393935,
+          "stop" : 1665346432473,
+          "duration" : 38538
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'fsdfsd fsdf'", "'dsf@sdf.com'", "456464", "'8'", "'sdfsd'", "'dsfsdf'", "'Islamabad'", "'United Kingdom'", "'AR'", "'28'", "'dsfsf'", "'sdfsdf'", "'United Kingdom'", "'dasd'", "'fsdf'", "'Mr'", "'sfdsdf'", "'sfsd'", "'Mr'", "'fsd'", "'sdfsd'", "'Mr'" ]
+      } ],
+      "uid" : "a1e66f9b28d2ea10cb8649d45b2a4801"
+    }, {
+      "name" : "selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable\n  (Session info: chrome=106.0.5249.103)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00AA1ED3+2236115]\n\tOrdinal0 [0x00A392F1+1807089]\n\tOrdinal0 [0x009465C0+812480]\n\tOrdinal0 [0x00976586+1009030]\n\tOrdinal0 [0x0096C416+967702]\n\tOrdinal0 [0x00991A8C+1120908]\n\tOrdinal0 [0x0096BD84+966020]\n\tOrdinal0 [0x00991CA4+1121444]\n\tOrdinal0 [0x009A59E2+1202658]\n\tOrdinal0 [0x009918A6+1120422]\n\tOrdinal0 [0x0096A73D+960317]\n\tOrdinal0 [0x0096B71F+964383]\n\tGetHandleVerifier [0x00D4E7E2+2743074]\n\tGetHandleVerifier [0x00D408D4+2685972]\n\tGetHandleVerifier [0x00B32BAA+532202]\n\tGetHandleVerifier [0x00B31990+527568]\n\tOrdinal0 [0x00A4080C+1837068]\n\tOrdinal0 [0x00A44CD8+1854680]\n\tOrdinal0 [0x00A44DC5+1854917]\n\tOrdinal0 [0x00A4ED64+1895780]\n\tBaseThreadInitThunk [0x7743FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x776C7B5E+286]\n\tRtlGetAppContainerNamedObjectPath [0x776C7B2E+238]",
+      "children" : [ {
+        "name" : "test_neg_adults",
+        "uid" : "f63f8e6f484916a4",
+        "parentUid" : "db1f051569878fbeb87d0db3efe438c1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1665346441060,
+          "stop" : 1665346446183,
+          "duration" : 5123
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_100_adults",
+        "uid" : "13e683c23d99bf2",
+        "parentUid" : "db1f051569878fbeb87d0db3efe438c1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1665346454517,
+          "stop" : 1665346459661,
+          "duration" : 5144
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_12_kids",
+        "uid" : "522bb04fc0058ae3",
+        "parentUid" : "db1f051569878fbeb87d0db3efe438c1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1665346468181,
+          "stop" : 1665346473263,
+          "duration" : 5082
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_neg_kids",
+        "uid" : "2c83e1e208244a91",
+        "parentUid" : "db1f051569878fbeb87d0db3efe438c1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1665346484628,
+          "stop" : 1665346489730,
+          "duration" : 5102
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_10_rooms",
+        "uid" : "a917695bace83643",
+        "parentUid" : "db1f051569878fbeb87d0db3efe438c1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1665346498197,
+          "stop" : 1665346503276,
+          "duration" : 5079
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_under1_room",
+        "uid" : "ae4b0425e2494471",
+        "parentUid" : "db1f051569878fbeb87d0db3efe438c1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1665346515189,
+          "stop" : 1665346520375,
+          "duration" : 5186
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "db1f051569878fbeb87d0db3efe438c1"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

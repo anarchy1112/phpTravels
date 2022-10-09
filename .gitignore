@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+*pytest_cache
+*idea
+*pycache*

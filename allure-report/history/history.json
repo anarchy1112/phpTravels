@@ -1,0 +1,170 @@
+{
+  "f4957230760a28673f2925bcbd0c91da" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bffbca01201faa1b",
+      "reportUrl" : "http://localhost:8080/job/phpTravels/2/allure/#testresult/bffbca01201faa1b",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00AA1ED3+2236115]\n\tOrdinal0 [0x00A392F1+1807089]\n\tOrdinal0 [0x009466FD+812797]\n\tOrdinal0 [0x009755DF+1005023]\n\tOrdinal0 [0x009757CB+1005515]\n\tOrdinal0 [0x009A7632+1209906]\n\tOrdinal0 [0x00991AD4+1120980]\n\tOrdinal0 [0x009A59E2+1202658]\n\tOrdinal0 [0x009918A6+1120422]\n\tOrdinal0 [0x0096A73D+960317]\n\tOrdinal0 [0x0096B71F+964383]\n\tGetHandleVerifier [0x00D4E7E2+2743074]\n\tGetHandleVerifier [0x00D408D4+2685972]\n\tGetHandleVerifier [0x00B32BAA+532202]\n\tGetHandleVerifier [0x00B31990+527568]\n\tOrdinal0 [0x00A4080C+1837068]\n\tOrdinal0 [0x00A44CD8+1854680]\n\tOrdinal0 [0x00A44DC5+1854917]\n\tOrdinal0 [0x00A4ED64+1895780]\n\tBaseThreadInitThunk [0x7743FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x776C7B5E+286]\n\tRtlGetAppContainerNamedObjectPath [0x776C7B2E+238]",
+      "time" : {
+        "start" : 1665346370285,
+        "stop" : 1665346385175,
+        "duration" : 14890
+      }
+    } ]
+  },
+  "5d7d05b71ba61ea71a47a1f43140e9ba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2c83e1e208244a91",
+      "reportUrl" : "http://localhost:8080/job/phpTravels/2/allure/#testresult/2c83e1e208244a91",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable\n  (Session info: chrome=106.0.5249.103)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00AA1ED3+2236115]\n\tOrdinal0 [0x00A392F1+1807089]\n\tOrdinal0 [0x009465C0+812480]\n\tOrdinal0 [0x00976586+1009030]\n\tOrdinal0 [0x0096C416+967702]\n\tOrdinal0 [0x00991A8C+1120908]\n\tOrdinal0 [0x0096BD84+966020]\n\tOrdinal0 [0x00991CA4+1121444]\n\tOrdinal0 [0x009A59E2+1202658]\n\tOrdinal0 [0x009918A6+1120422]\n\tOrdinal0 [0x0096A73D+960317]\n\tOrdinal0 [0x0096B71F+964383]\n\tGetHandleVerifier [0x00D4E7E2+2743074]\n\tGetHandleVerifier [0x00D408D4+2685972]\n\tGetHandleVerifier [0x00B32BAA+532202]\n\tGetHandleVerifier [0x00B31990+527568]\n\tOrdinal0 [0x00A4080C+1837068]\n\tOrdinal0 [0x00A44CD8+1854680]\n\tOrdinal0 [0x00A44DC5+1854917]\n\tOrdinal0 [0x00A4ED64+1895780]\n\tBaseThreadInitThunk [0x7743FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x776C7B5E+286]\n\tRtlGetAppContainerNamedObjectPath [0x776C7B2E+238]",
+      "time" : {
+        "start" : 1665346484628,
+        "stop" : 1665346489730,
+        "duration" : 5102
+      }
+    } ]
+  },
+  "5173445264b425923b6df0843be3f650" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "522bb04fc0058ae3",
+      "reportUrl" : "http://localhost:8080/job/phpTravels/2/allure/#testresult/522bb04fc0058ae3",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable\n  (Session info: chrome=106.0.5249.103)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00AA1ED3+2236115]\n\tOrdinal0 [0x00A392F1+1807089]\n\tOrdinal0 [0x009465C0+812480]\n\tOrdinal0 [0x00976586+1009030]\n\tOrdinal0 [0x0096C416+967702]\n\tOrdinal0 [0x00991A8C+1120908]\n\tOrdinal0 [0x0096BD84+966020]\n\tOrdinal0 [0x00991CA4+1121444]\n\tOrdinal0 [0x009A59E2+1202658]\n\tOrdinal0 [0x009918A6+1120422]\n\tOrdinal0 [0x0096A73D+960317]\n\tOrdinal0 [0x0096B71F+964383]\n\tGetHandleVerifier [0x00D4E7E2+2743074]\n\tGetHandleVerifier [0x00D408D4+2685972]\n\tGetHandleVerifier [0x00B32BAA+532202]\n\tGetHandleVerifier [0x00B31990+527568]\n\tOrdinal0 [0x00A4080C+1837068]\n\tOrdinal0 [0x00A44CD8+1854680]\n\tOrdinal0 [0x00A44DC5+1854917]\n\tOrdinal0 [0x00A4ED64+1895780]\n\tBaseThreadInitThunk [0x7743FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x776C7B5E+286]\n\tRtlGetAppContainerNamedObjectPath [0x776C7B2E+238]",
+      "time" : {
+        "start" : 1665346468181,
+        "stop" : 1665346473263,
+        "duration" : 5082
+      }
+    } ]
+  },
+  "d2407f205d6d0d706c5ac5b1b29d6624" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fa2fabe1558b73db",
+      "reportUrl" : "http://localhost:8080/job/phpTravels/2/allure/#testresult/fa2fabe1558b73db",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'WebDriver' object has no attribute 'send_keys'",
+      "time" : {
+        "start" : 1665346393935,
+        "stop" : 1665346432473,
+        "duration" : 38538
+      }
+    } ]
+  },
+  "989b3f899e6a17af98d43d0986d1022f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "13e683c23d99bf2",
+      "reportUrl" : "http://localhost:8080/job/phpTravels/2/allure/#testresult/13e683c23d99bf2",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable\n  (Session info: chrome=106.0.5249.103)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00AA1ED3+2236115]\n\tOrdinal0 [0x00A392F1+1807089]\n\tOrdinal0 [0x009465C0+812480]\n\tOrdinal0 [0x00976586+1009030]\n\tOrdinal0 [0x0096C416+967702]\n\tOrdinal0 [0x00991A8C+1120908]\n\tOrdinal0 [0x0096BD84+966020]\n\tOrdinal0 [0x00991CA4+1121444]\n\tOrdinal0 [0x009A59E2+1202658]\n\tOrdinal0 [0x009918A6+1120422]\n\tOrdinal0 [0x0096A73D+960317]\n\tOrdinal0 [0x0096B71F+964383]\n\tGetHandleVerifier [0x00D4E7E2+2743074]\n\tGetHandleVerifier [0x00D408D4+2685972]\n\tGetHandleVerifier [0x00B32BAA+532202]\n\tGetHandleVerifier [0x00B31990+527568]\n\tOrdinal0 [0x00A4080C+1837068]\n\tOrdinal0 [0x00A44CD8+1854680]\n\tOrdinal0 [0x00A44DC5+1854917]\n\tOrdinal0 [0x00A4ED64+1895780]\n\tBaseThreadInitThunk [0x7743FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x776C7B5E+286]\n\tRtlGetAppContainerNamedObjectPath [0x776C7B2E+238]",
+      "time" : {
+        "start" : 1665346454517,
+        "stop" : 1665346459661,
+        "duration" : 5144
+      }
+    } ]
+  },
+  "b5a91bfe091f9718b16f53243c3a0b2e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ae4b0425e2494471",
+      "reportUrl" : "http://localhost:8080/job/phpTravels/2/allure/#testresult/ae4b0425e2494471",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable\n  (Session info: chrome=106.0.5249.103)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00AA1ED3+2236115]\n\tOrdinal0 [0x00A392F1+1807089]\n\tOrdinal0 [0x009465C0+812480]\n\tOrdinal0 [0x00976586+1009030]\n\tOrdinal0 [0x0096C416+967702]\n\tOrdinal0 [0x00991A8C+1120908]\n\tOrdinal0 [0x0096BD84+966020]\n\tOrdinal0 [0x00991CA4+1121444]\n\tOrdinal0 [0x009A59E2+1202658]\n\tOrdinal0 [0x009918A6+1120422]\n\tOrdinal0 [0x0096A73D+960317]\n\tOrdinal0 [0x0096B71F+964383]\n\tGetHandleVerifier [0x00D4E7E2+2743074]\n\tGetHandleVerifier [0x00D408D4+2685972]\n\tGetHandleVerifier [0x00B32BAA+532202]\n\tGetHandleVerifier [0x00B31990+527568]\n\tOrdinal0 [0x00A4080C+1837068]\n\tOrdinal0 [0x00A44CD8+1854680]\n\tOrdinal0 [0x00A44DC5+1854917]\n\tOrdinal0 [0x00A4ED64+1895780]\n\tBaseThreadInitThunk [0x7743FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x776C7B5E+286]\n\tRtlGetAppContainerNamedObjectPath [0x776C7B2E+238]",
+      "time" : {
+        "start" : 1665346515189,
+        "stop" : 1665346520375,
+        "duration" : 5186
+      }
+    } ]
+  },
+  "855f91e502c2baff8a9d7afd329b3acc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a917695bace83643",
+      "reportUrl" : "http://localhost:8080/job/phpTravels/2/allure/#testresult/a917695bace83643",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable\n  (Session info: chrome=106.0.5249.103)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00AA1ED3+2236115]\n\tOrdinal0 [0x00A392F1+1807089]\n\tOrdinal0 [0x009465C0+812480]\n\tOrdinal0 [0x00976586+1009030]\n\tOrdinal0 [0x0096C416+967702]\n\tOrdinal0 [0x00991A8C+1120908]\n\tOrdinal0 [0x0096BD84+966020]\n\tOrdinal0 [0x00991CA4+1121444]\n\tOrdinal0 [0x009A59E2+1202658]\n\tOrdinal0 [0x009918A6+1120422]\n\tOrdinal0 [0x0096A73D+960317]\n\tOrdinal0 [0x0096B71F+964383]\n\tGetHandleVerifier [0x00D4E7E2+2743074]\n\tGetHandleVerifier [0x00D408D4+2685972]\n\tGetHandleVerifier [0x00B32BAA+532202]\n\tGetHandleVerifier [0x00B31990+527568]\n\tOrdinal0 [0x00A4080C+1837068]\n\tOrdinal0 [0x00A44CD8+1854680]\n\tOrdinal0 [0x00A44DC5+1854917]\n\tOrdinal0 [0x00A4ED64+1895780]\n\tBaseThreadInitThunk [0x7743FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x776C7B5E+286]\n\tRtlGetAppContainerNamedObjectPath [0x776C7B2E+238]",
+      "time" : {
+        "start" : 1665346498197,
+        "stop" : 1665346503276,
+        "duration" : 5079
+      }
+    } ]
+  },
+  "cc088a87a60cae188fb8c9be9bb6e079" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f63f8e6f484916a4",
+      "reportUrl" : "http://localhost:8080/job/phpTravels/2/allure/#testresult/f63f8e6f484916a4",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable\n  (Session info: chrome=106.0.5249.103)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00AA1ED3+2236115]\n\tOrdinal0 [0x00A392F1+1807089]\n\tOrdinal0 [0x009465C0+812480]\n\tOrdinal0 [0x00976586+1009030]\n\tOrdinal0 [0x0096C416+967702]\n\tOrdinal0 [0x00991A8C+1120908]\n\tOrdinal0 [0x0096BD84+966020]\n\tOrdinal0 [0x00991CA4+1121444]\n\tOrdinal0 [0x009A59E2+1202658]\n\tOrdinal0 [0x009918A6+1120422]\n\tOrdinal0 [0x0096A73D+960317]\n\tOrdinal0 [0x0096B71F+964383]\n\tGetHandleVerifier [0x00D4E7E2+2743074]\n\tGetHandleVerifier [0x00D408D4+2685972]\n\tGetHandleVerifier [0x00B32BAA+532202]\n\tGetHandleVerifier [0x00B31990+527568]\n\tOrdinal0 [0x00A4080C+1837068]\n\tOrdinal0 [0x00A44CD8+1854680]\n\tOrdinal0 [0x00A44DC5+1854917]\n\tOrdinal0 [0x00A4ED64+1895780]\n\tBaseThreadInitThunk [0x7743FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x776C7B5E+286]\n\tRtlGetAppContainerNamedObjectPath [0x776C7B2E+238]",
+      "time" : {
+        "start" : 1665346441060,
+        "stop" : 1665346446183,
+        "duration" : 5123
+      }
+    } ]
+  }
+}
